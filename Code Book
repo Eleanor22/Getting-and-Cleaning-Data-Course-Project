@@ -1,0 +1,10 @@
+The set of variables:
+read.table(): reads a file in table format and creates a data frame from it
+colnames():  set the column names of a matrix-like object
+cbind()/rbind(): take a sequence of vector, matrix or data-frame arguments and combine by columns or rows, respectively
+grepl(): search for matches to argument pattern within each element of a character vector
+join(): similarly to merge()
+gsub(): perform replacement of all matches
+make.names(): make syntactically valid names out of character vectors
+ddply(): for each subset of a data frame, apply function then combine results into a data frame
+write.table(): prints its required argument x to a file
